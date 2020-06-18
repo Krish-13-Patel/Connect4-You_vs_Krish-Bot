@@ -1,2 +1,19 @@
 # Connect4-You_vs_Krish-Bot
- Play the Connect 4 Game against an AI(Artificiallly Intelligent) Krih's Bot !
+ Play the Connect 4 Game against an AI(Artificiallly Intelligent) Krish's Bot !
+ 
+ STEPS TO PLAY :
+ 
+1). CLICK ON 'connect4_with_KRISH_BOT.exe'.
+2). THEN CLICK ON DOWNLOAD.
+3). AFTER THE DOWNLOAD IS COMPLETED PRESS ON '^' KEY BELOW THE CURRENT PAGE.
+4). CLICK ON 'KEEP'.
+5). CLICK ON 'OPEN'.
+6). NOW, YOU WILL SEE A DIALOG BOX OF WARNING, IN THIS CLICK ON 'MORE OPTIONS'.
+7). CLICK ON 'RUN ANYWAY'.
+8). WAIT FOR A MINUTE, AND THEN ENJOY THE GAME.
+9). LEARN HOW TO PLAY THE GAME BY WATCHING THIS VIDEO : https://www.youtube.com/watch?v=utXzIFEVPjA
+10). ENJOY :)
+11). THANK YOU.
+
+
+BY KRISH PATEL
